@@ -14,4 +14,4 @@ Pinout:
   * Gnd->Gnd
   
 Example Image
-![Example Output](ExampleOutput.JPG)
+![Example Output](ExampleOutput.jpg)
